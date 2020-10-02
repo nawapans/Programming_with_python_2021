@@ -73,7 +73,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/workspace.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/.idea/workspace.xml" />
   </component>
@@ -202,6 +202,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
@@ -307,6 +308,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added resources for part 4 and external data sources" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="776" y="363" key="#Notifications" timestamp="1601545885116">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state x="776" y="363" key="#Notifications/93.0.1827.1080@93.0.1827.1080" timestamp="1601545885116" />
     <state width="485" height="495" key="DebuggerActiveHint" timestamp="1600951009156">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
